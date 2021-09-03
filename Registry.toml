@@ -4,3 +4,4 @@ repo = "https://github.com/barche/MECARegistry.git"
 description = "Registry for mechanics packages"
 
 [packages]
+d744c896-a888-11e8-2891-21044cb4e99d = { name = "Archimedes", path = "A/Archimedes" }
