@@ -1,0 +1,6 @@
+name = "MECARegistry"
+uuid = "6d495449-2f2b-4db9-9b91-0d4ae2bf45d8"
+repo = "https://github.com/barche/MECARegistry.git"
+description = "Registry for mechanics packages"
+
+[packages]
